@@ -1,30 +1,6 @@
-<h1 align="center">
-  <br>
-  <img src="https://i.imgur.com/amrsFJK.png" alt="Animavita" height="125" width="125">
-  <br>
-  <img src="https://i.imgur.com/iSizpPl.png" alt="Animavita" height="45" width="">
-  <br><br>
-</h1>
-
 <p align="center">A minimal, clean and beautiful mobile app to help people find the closest pet friend to adopt, rescue lives and change the world.</p>
 
 <p align="center"><i>"How to save a life?" - The Fray</i> </p>
-
-<p align="center"> 
-  <a href="https://discord.gg/BHHz77rhb6">
-    <img src="https://img.shields.io/discord/829042103295410197?color=%237289DA&label=Animavita&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/progress-40%25-brightgreen.svg" alt="PRs Welcome">
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PRs Welcome">
-  </a>
-  <a href="https://saythanks.io/to/wendelfreitas">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-<a href="https://www.repostatus.org/#wip"><img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public." /></a>  
-</p>
 
 <p align="center">
   <a href="#blush-why">Why</a> •
@@ -57,8 +33,6 @@ Animavita's purpose is not to change how people use facebook to the activities d
 
 ## :dizzy: **Roadmap**
 
-Check our [board](https://github.com/animavita/animavita/projects/2) for more details about what we're building.
-
 -   [ ] Animavita next version (Expo, Relay and GraphQL)
 
 ## :zap: **Tech Stack**
@@ -68,21 +42,7 @@ Check our [board](https://github.com/animavita/animavita/projects/2) for more de
   <br>
 </h1>
 
--   [Facebook Login](https://github.com/facebook/react-native-fbsdk)
--   [Expo](https://github.com/expo/expo)
--   [Styled Components](https://www.styled-components.com/)
--   [Reactotron](https://infinite.red/reactotron)
--   [Eslint](https://eslint.org/)
--   [Redux](https://github.com/reduxjs/react-redux)
--   [MongoDB](https://www.mongodb.com/)-   [Formik + Yup](https://jaredpalmer.com/formik/)
--   [Relay](https://github.com/facebook/relay)
--   [GraphQL](https://github.com/facebook/graphql)
--   [Kraken](https://github.com/wendelfreitas/kraken)
--   [OneSignal](https://onesignal.com)
--   [AWS](https://aws.amazon.com/pt/)
--   [Redux-Persist](https://github.com/rt2zz/redux-persist)
-
-and much more...
+e mais uma alteração aqui...
 
 ## :handshake: **Contributing**
 
@@ -95,4 +55,4 @@ All kinds of contributions are very welcome and appreciated!
 -   📥 Submit PRs to help solve issues or add features
 -   ✋ Influence the future of Animavita with feature requests
 
-And make sure to read the [Contributing Guide](/CONTRIBUTION.md) before making a pull request.
+And make sure to read the before making a pull request.
