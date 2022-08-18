@@ -1,8 +1,8 @@
 # Exemplo de README para projetos
 
-<p align="center">A minimal, clean and beautiful mobile app to help people find the closest pet friend to adopt, rescue lives and change the world.</p>
+<p align="center">Um aplicativo móvel minimalista, limpo e bonito para ajudar as pessoas a encontrar o amigo de estimação mais próximo para adotar, resgatar vidas e mudar o mundo.</p>
 
-<p align="center"><i>"How to save a life?" - The Fray</i> </p>
+<p align="center"><i>"Como salvar uma vida?" - A briga</i> </p>
 
 <p align="center">
   <a href="#blush-why">Why</a> •
@@ -27,17 +27,17 @@
   </kbd>
 </p>
 
-## :blush: **Why?**
+## :blush: **Por quê?**
 
-Animavita is a combination of two Latin words, ‘Animal’ and ‘Vitae’, which means respectively ‘Animal’ and ‘Life’. This is an idea to create or animate something that was born a while ago, when I realized that facebook is used to publicize adoption and also ask for help for animals that lives on the streets.
+Animavita é uma combinação de duas palavras latinas, 'Animal' e 'Vitae', que significam respectivamente 'Animal' e 'Life'. Esta é uma ideia para criar ou animar algo que nasceu há algum tempo, quando percebi que o facebook é usado para divulgar a adoção e também pedir ajuda para os animais que vivem nas ruas.
 
-Animavita's purpose is not to change how people use facebook to the activities described above, but to centralize the helpful information in a single application. Anyone can make an adoption request, but it doesn’t mean that the pet will be automatically adopted. It means that the person interested can talk to the person who registered the pet, allowing both sides to have a conversation, and the user to research and decide his favorite pet.
+O objetivo do Animavita não é mudar a forma como as pessoas usam o facebook para as atividades descritas acima, mas centralizar as informações úteis em um único aplicativo. Qualquer pessoa pode fazer um pedido de adoção, mas isso não significa que o animal será adotado automaticamente. Isso significa que o interessado pode conversar com a pessoa que cadastrou o animal de estimação, permitindo que ambos os lados conversem, e o usuário pesquise e decida seu animal de estimação favorito.
 
-## :dizzy: **Roadmap**
+## :dizzy: **Roteiro**
 
--   [ ] Animavita next version (Expo, Relay and GraphQL)
+-   [ ] próxima versão do Animavita (Expo, Relay e GraphQL)
 
-## :zap: **Tech Stack**
+## :zap: **Pilha de tecnologia**
 
 <h1 align="center">
   <img src="https://i.imgur.com/AuRZAgZ.jpg" alt="Stack" height="150" width="600">
@@ -48,9 +48,9 @@ e mais uma alteração aqui...
 
 ## :handshake: **Contributing**
 
-This project is for study purposes too, so send me an email telling me what you are doing and why you are doing it, teach me what you know
+Este projeto é para fins de estudo também, então me envie um e-mail me dizendo o que você está fazendo e por que está fazendo, me ensine o que você sabe
 
-All kinds of contributions are very welcome and appreciated!
+Todos os tipos de contribuições são muito bem-vindas e apreciadas!
 
 -   ⭐️ Star the project
 -   🐛 Find and report issues
