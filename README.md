@@ -1,4 +1,4 @@
-# Exemplo de README para projetos
+<p align="center"><strong>*** README PARA PROJETOS ***</strong></p>
 
 <p align="center">Um aplicativo móvel minimalista, limpo e bonito para ajudar as pessoas a encontrar o amigo de estimação mais próximo para adotar, resgatar vidas e mudar o mundo.</p>
 
@@ -37,24 +37,15 @@ O objetivo do Animavita não é mudar a forma como as pessoas usam o facebook pa
 
 -   [ ] próxima versão do Animavita (Expo, Relay e GraphQL)
 
-## :zap: **Pilha de tecnologia**
-
-<h1 align="center">
-  <img src="https://i.imgur.com/AuRZAgZ.jpg" alt="Stack" height="150" width="600">
-  <br>
-</h1>
-
-e mais uma alteração aqui...
-
-## :handshake: **Contributing**
+## :handshake: **Contribuindo**
 
 Este projeto é para fins de estudo também, então me envie um e-mail me dizendo o que você está fazendo e por que está fazendo, me ensine o que você sabe
 
 Todos os tipos de contribuições são muito bem-vindas e apreciadas!
 
--   ⭐️ Star the project
--   🐛 Find and report issues
--   📥 Submit PRs to help solve issues or add features
--   ✋ Influence the future of Animavita with feature requests
+-   ⭐️ Estrelar o projeto
+-   🐛 Localizar e relatar problemas
+-   📥 Envie PRs para ajudar a resolver problemas ou adicionar recursos
+-   ✋ Influencie o futuro do Animavita com solicitações de recursos
 
-And make sure to read the before making a pull request.
+E certifique-se de ler o antes de fazer um pull request.
